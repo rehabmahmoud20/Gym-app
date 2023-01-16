@@ -1,0 +1,43 @@
+/* start main  rules*/
+.green-color{
+  color:#62BD7A;
+}
+
+.letter-space{
+  letter-spacing: 0;
+}
+.purple-color{
+  color: #5614CF;
+}
+.purple-bg{
+  background: #5614cf !important;
+}
+.pink-color{
+  color: #F21D3C;
+}
+.pink-background{
+  background: linear-gradient(113deg,#f21d3c 28%,#f48b45 138%);
+}
+.sign-in-btn{
+  color: #F21D3C !important;
+  margin:0 20px 0 50px ;
+
+}
+.sign-up-btn{
+  margin-right:100px ;
+}
+
+
+.nav-shadow{
+  box-shadow: 2px 0 40px 0 rgb(0 0 0 / 14%);
+}
+@media screen and (max-width: 991px) {
+  .sign-in-btn{
+    margin : 10px 0;
+  }
+}
+@media screen and (min-width: 1200px) {
+  .letter-space{
+    letter-spacing: 2px;
+  }
+}

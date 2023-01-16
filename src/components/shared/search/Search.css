@@ -1,0 +1,16 @@
+.search-shadow{
+    box-shadow: 2px 2px 6px 0 rgb(0 0 0 / 30%);
+   
+  }
+  .filter-btn{
+    right: 100px;
+    color: #5614CF !important;
+  }
+  .sec-btn{
+    border-radius: 0 !important;
+    border-radius: 0 8px 8px 0 !important;
+    -webkit-border-radius: 0 8px 8px 0 !important;
+    -moz-border-radius: 0 8px 8px 0 !important;
+    -ms-border-radius: 0 8px 8px 0 !important;
+    -o-border-radius: 0 8px 8px 0 !important;
+  }
